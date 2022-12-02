@@ -38,6 +38,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=psakash2003&show_icons=true&locale=en" alt="psakash2003" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=psakash2003&" alt="psakash2003" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=psakash2003&" alt="psakash2003" /></p>
 
 
